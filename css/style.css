@@ -9,6 +9,7 @@
 
 /* Home*/
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
 
 /* Drones */
 @import "./drones/drones-lista.css"
