@@ -1,4 +1,5 @@
 :root{
+    --cor-c1:#EDEDED;
     --cor-0:#ffffff;
     --cor-8:#232F66;
     --cor-9:#1C2552;
@@ -12,7 +13,9 @@
     --cor-p1:#FF8801;
     
 }
-
+.cor-0 {
+    color:var(--cor-c1);
+    }
 .cor-0 {
 color:var(--cor-0);
 }
