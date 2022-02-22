@@ -13,6 +13,10 @@
 @import "./home/depoimento.css";
 
 /* Drones */
-@import "./drones/drones-lista.css"
+@import "./drones/drones-lista.css";
+
+/* seguros */
+@import "./seguros/seguros.css";
+
 
 
