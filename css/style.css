@@ -18,6 +18,10 @@
 @import "./drones/drones-lista.css";
 @import "./drones/drones.css";
 
+/* Drone */
+@import "./drone/drone.css";
+@import "./drone/seguro.css";
+
 /* seguros */
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
