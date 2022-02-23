@@ -16,7 +16,7 @@
 
 /* Drones */
 @import "./drones/drones-lista.css";
-
+@import "./drones/drones.css";
 /* seguros */
 @import "./seguros/seguros.css";
 
