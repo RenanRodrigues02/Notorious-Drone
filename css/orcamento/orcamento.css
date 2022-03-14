@@ -27,12 +27,12 @@
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 .orcamento-produto{
-border-radius: 5px 0 0 5px;
-background: var(--cor-11);
-display: grid;
-grid-template-columns: 1fr 1fr;
-gap: 20px;
-align-content: start;
+    border-radius: 5px 0 0 5px;
+    background: var(--cor-11);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-content: start;
 }
 .orcamento-produto > * {
     grid-column: 1/-1;
@@ -95,7 +95,7 @@ align-content: start;
     background: var(--cor-0);
 }
 .orcamento-conteudo{
- display: none;   
+    display: none;   
 }
 .orcamento-conteudo h2,
 .orcamento-dados h2:nth-of-type(n+2){
