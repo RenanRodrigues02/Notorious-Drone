@@ -22,23 +22,6 @@ Notorious Drone trata-se de um site moderno fictício destinado à venda de Dron
 bem como verificar os locais das Lojas físicas, preços, vantagens e ficha técnicas dos produtos. Além disso, o site conta com uma área destinada também aos preços e solicitações de Seguro para o seu Drone.
 Por fim, através de um Formulário, o cliente solicita o orçamento da compra.   
 
-
----
-##  🔠Conteúdos
-
-<!--ts-->
-   * [Sobre](#sobre)
-   * [Status](#status)
-   * [Objetivo do Projeto](#objetivo-do-projeto)
-   * [Requisitos de Funcionalidade](#requisitos-de-funcionalidade)
-   * [Concepção do Projeto](#concepcao-do-projeto)
-   * [Demonstração](#demonstração)
-   * [Link para Acessar](#link-para-acessar)
-   * [Rodando o Projeto](#rodando-o-projeto)
-   * [Sobre a Licença](#sobre-a-licença)
-<!--te-->
-
-
 ---
 ##  🧭Status do Projeto
 
