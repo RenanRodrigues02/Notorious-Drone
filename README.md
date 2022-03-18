@@ -83,10 +83,8 @@ conceitos essenciais de JavaScript para a construção do projeto final e aplica
     :iphone: <b>Mobile</b>
   </h1>
   <h1 align="center">
-    <img  height="350px" src="/img/readme/a9.PNG">
-    <img  height="350px" src="/img/readme/a10.PNG">
-    <img height="400px"  src="/img/readme/a11.PNG">
-    <img  height="400px" src="/img/readme/a12.PNG">
+    <img   src="/img/readme/a11.PNG">
+    <img   src="/img/readme/a12.PNG">
 </h1> 
   
 ---
