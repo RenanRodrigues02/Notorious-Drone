@@ -75,8 +75,9 @@ conceitos essenciais de JavaScript para a construção do projeto final e aplica
 </h1> 
 
   <h1 align="center">
-    <img   src="/img/readme/a4.PNG">
+    <img    src="/img/readme/a2.PNG">
     <img   src="/img/readme/a3.PNG">
+    <img    src="/img/readme/a7.PNG">
 </h1> 
    <h1>
     :iphone: <b>Mobile</b>
